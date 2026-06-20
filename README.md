@@ -4,6 +4,19 @@ A modern, cybersecurity-focused web application built using Python and Streamlit
 
 ---
 
+## 📸 Application Interface
+
+### 🏠 Home Page
+![Home Page](Screenshot%202026-06-20%20at%2023.46.49.png)
+
+### 🔑 Choose Your Password Own (Analysis Dashboard)
+![Choose Your Password Own](Screenshot%202026-06-20%20at%2023.47.24.png)
+
+### 🎲 Generate Strong Password
+![Generate Strong Password](Screenshot%202026-06-20%20at%2023.47.40.png)
+
+---
+
 ## 🚀 Features
 
 ### ✅ Password Strength Analysis & Statistics
@@ -66,12 +79,28 @@ The application scores inputs dynamically out of a maximum value of **7**:
 
 ---
 
+## 👨‍💻 Author
+### Debapriya Dutta
+B.Tech CSE (Big Data Analytics)
+SRM Institute of Science and Technology, Ramapuram, Chennai.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a star ⭐ on GitHub.
+
+---
+
 ## 📂 Project Structure
 
 ```text
 Password-Strength-Analyzer/
 │
-├── app.py               # Main Streamlit web application code
-├── requirements.txt     # Dependency definition file
-├── README.md            # Repository documentation
-└── screenshots/         # Directory holding UI previews
+├── app.py                             # Main Streamlit web application code
+├── requirements.txt                   # Dependency definition file
+├── README.md                          # Repository documentation
+├── Screenshot 2026-06-20 at 23.46.49.jpg  # Home Page layout view
+├── Screenshot 2026-06-20 at 23.47.24.png  # Strength analysis metrics view
+└── Screenshot 2026-06-20 at 23.47.40.png  # Password generation module view
+```text
